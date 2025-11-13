@@ -1,6 +1,6 @@
 # Computing the isogeny type of the unipotent part of Brauer groups of abelian varieties
 
-The code here is supplemental material for the preprint [arXiv:2511.08840](arxiv.org/abs/2511.08840), joint with Alexei Skorobogatov and Yuan Yang. The notebooks contain computations performed in SageMath v10.7 of the dimension and isogeny type of ${\bf U}_A$ and its torsion subgroups in various situations, following the principle explained in the appendix of the paper. Computations were made using the [implementation of Witt vectors](https://arxiv.org/abs/2504.01834) due to Rubén Muñoz-\-Bertrand. We thank Marco Lastres for technical help with the code.
+The code here is supplemental material for the preprint [arXiv:2511.08840](https://www.arxiv.org/abs/2511.08840), joint with Alexei Skorobogatov and Yuan Yang. The notebooks contain computations performed in SageMath v10.7 of the dimension and isogeny type of ${\bf U}_A$ and its torsion subgroups in various situations, following the principle explained in the appendix of the paper. Computations were made using the [implementation of Witt vectors](https://arxiv.org/abs/2504.01834) due to Rubén Muñoz-\-Bertrand. We thank Marco Lastres for technical help with the code.
 
 The following is an outline of the files present here.
 
